@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+check_feature_model	main.py	/^    def check_feature_model(text, fully_charged, charge_plus, charged):$/;"	f	function:get_feature_model
+extract_data_from_page	main.py	/^def extract_data_from_page(url):$/;"	f
+get_data_from_ads	main.py	/^def get_data_from_ads(soup, data):$/;"	f
+get_data_from_second_line	main.py	/^def get_data_from_second_line(soup, data_dict):$/;"	f
+get_feature_model	main.py	/^def get_feature_model(soup, data_dict):#TODO: args$/;"	f
+get_page	main.py	/^def get_page(url):$/;"	f
+get_price	main.py	/^def get_price(soup, data_dict):$/;"	f
+parse_list_in_car_ad_html	main.py	/^def parse_list_in_car_ad_html(soup, data_dict):$/;"	f
+scrape_finn_for_bmw_i3_ad_data	main.py	/^def scrape_finn_for_bmw_i3_ad_data():  # TODO add url option$/;"	f
+str_to_int	main.py	/^def str_to_int(string: str) -> int:$/;"	f
